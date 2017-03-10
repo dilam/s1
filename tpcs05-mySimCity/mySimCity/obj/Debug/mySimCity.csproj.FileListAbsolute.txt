@@ -1,0 +1,2 @@
+C:\Users\DiLam\Documents\tpcs\tpcs05-mySimCity\mySimCity\bin\Debug\mySimCity.exe.config
+C:\Users\DiLam\Documents\Epita InfoSup S1-S2\tpcs\tpcs05-mySimCity\mySimCity\bin\Debug\mySimCity.exe.config
